@@ -1,72 +1,105 @@
 <img width="1320" height="173" alt="image" src="https://github.com/user-attachments/assets/d1a712d5-d58c-4bea-9eec-e0c8058269b0" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=ec6c2b&size=35&center=true&vCenter=true&width=1000&lines=Crédito+de+Carbono;Por+Fagner+Santos)](https://git.io/typing-svg)
+
+
+
+## Introdução 📍
+
+O crédito de carbono é um instrumento econômico para mitigar emissões de gases de efeito estufa (GEE), representando uma tonelada de CO₂ equivalente evitada, reduzida ou removida da atmosfera. Surgiu no contexto dos acordos internacionais, como o Protocolo de Quioto (1997), e evoluiu para mercados regulados e voluntários, com certificação por organismos como VCS e Gold Standard.
+
+
+
+----------------------------------------------------------------------------------------
+## Indice ⚙️
+* [Objetivo](#Objetivo)
+* [Metodologia](#Metodologia)
+* [Resultados e discusão](#Resultados-e-discusão)
+* [Conclusão](#Conclusão)
+* [Referências](#Referências-utilizadas)
 
 
 
 
+----------------------------------------------------------------------------
 
-## Who we are?
-
-*"Connecting the World!"* 
-
-Welcome ESPHERA LOGTECH, where we connect the world with intelligent and agile logistics solutions. Our mission as a group of students is to integrate technology and planning to efficiently and safely meet the needs of each client. With an innovative approach, we transform the routing sector, driving global mobility with precision and excellence.
+## Objetivo 🎯 
+Apresentar o conceito de crédito de carbono, classificar seus tipos (regulados e voluntários), descrever métodos de geração de créditos e discutir a situação do mercado de carbono no Brasil até 2024. 
 
 
-## Index
-* [Project (API)](#Project-(API))
-* [Team](#Team)
-* [Project Objective](Project-Objective)
-* [Technologies Applied](Technologies-Applied)
-* [Product Backlog](#Product-Backlog)
-* [Sprint Log](#Sprint-Log)
+
+-----------------------------------------------------------------------------
+## Metodologia💡
+Revisão bibliográfica e documental do conceito de créditos de carbono, análise de relatórios e padrões de certificação, e construção de um gráfico ilustrativo de tendência do mercado no Brasil até 2024. A abordagem é descritiva-analítica.
 
 
-## Project (API) 
-Pedagogical project structured upon the API Methodology for teaching and learning, oriented towards competence development and grounded in the pillars of Real Problem-Based Learning (RPBL), external validation, and an agile mindset. It employs strategies aimed at comprehending the problem, conceiving a feasible solution through the development and implementation of the MVP, and subsequently advancing to its operation (CDIO).
+
+-----------------------------------------------------------------------------------------------------------------------
+## Resultados e discusão 📈
+O mercado de carbono tem se estruturado, com aumento da demanda por créditos por empresas privadas e desenvolvimento de normas para garantir integridade. Observam-se iniciativas em reflorestamento, energias renováveis, agricultura sustentável e captura de metano. Principais desafios: integridade dos projetos, dupla contagem, transparência e regulação nacional.
+
+Este é um gráfico representando a evolução do mercado de créditos de carbono no Brasil de 2010 a 2024, com base em dados públicos aproximados de órgãos como o um crescimento consistente no volume de créditos negociados, refletindo a implantação gradual Ministério do Meio Ambiente e relatórios de mercado.
+O gráfico mostra e expansão do mercado de carbono no país.
+
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/bc75a317-0aa4-488c-ae7a-431d284c753a" />
 
 
-## Team
-|    Function     | Name                                 |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Bruno Canuto        |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-canuto-746944291) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BrunoCanuto01)              |
-| Scrum Master  | Stela Lúcio |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stela-l%C3%BAcio-4849ab289 ) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Stela-Lucio)     |
-| Team Member   | Fagner Santos              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fagner-santos-235a82229) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/FagPSantos)        |
-|  Team Member  | Isabela Cardoso                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-cardoso008/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/isabelacardd)        |
-|  Team Member  |Jennifer Senne                |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-senne-97a0452b9) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JSenne15)   |
-|  Team Member  | Tatiane Sousa      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tatiane-sousa-5b564625b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/TatianeSPereira)    
+
+----------------------------------------------------------------------------------------
+## Conclusão ✅
+Os créditos de carbono são ferramentas relevantes para mitigação de GEE e oferecem oportunidades econômicas e ambientais. Para garantir eficácia, é necessária maior transparência, regulação adequada e padrões rigorosos de certificação. O Brasil, com vasta base florestal e projetos de mitigação, tem potencial para destaque, desde que supere desafios de governança.
+
+> Artigo desenvolvido com base nas pesquisas
+[Crédito de Carbono](https://github.com/user-attachments/files/23060393/Credito_de_Carbono.pdf)
 
 
-## Project Objective
-This project seeks to conduct a comprehensive analysis of port data covering the years 2020 to 2024, with a particular focus on evaluating logistical efficiency. The study aims to identify the main causes of operational stoppages, measure cargo flows, determine the most relevant countries involved in trade, and classify the predominant types of cargo. In addition, a comparative assessment of ports will be carried out by applying the DEA (Data Envelopment Analysis) methodology to determine those with the highest levels of relative efficiency. In this way, the research intends not only to broaden the academic understanding of the topic but also to provide strategic insights for the optimization of processes within the port sector.
+
+-------------------------------------------------------------------
+## Referências utilizadas📝
+> Compromissos para renovar a vida- Suzano
+
+[Clique aqui](https://www.suzano.com.br/sustentabilidade/compromissos)
+
+> Protocolo de Kyoto- Instituto de Pesquiza da Amazônia
+
+[Clique aqui](https://ipam.org.br/wp-content/uploads/2011/08/resumo_dos_resultados_da_cop-17.pdf)
+
+> Crédito de Carbono
+
+[Clique aqui](https://unfccc.int/)
 
 
-## Technologies Applied
 
-* Jira Software
-* Power BI
-* Microsoft Excel
-* Python (Colab)
-* Canva
+[Clique aqui](https://www.scielo.br/j/osoc/a/gD3Zk99h3txdzXZrRmZdcgL/?lang=pt&format=html)
 
+----------------------------------------------------
 
-## Product Backlog
-
-| Rank | Priority | User Story                                                                                                                                              | Estimativa | Sprint |
-|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | High      | As an analyst, I will collect and filter data from 2020 to 2024 to ensure the information is ready for future analysis                                  | 4         | 1      |
-| 2    |Low         | As an analyst, I will select specific products for deep data analysis                                                                                  | 2          | 1      |
-| 3    | High       | As an analyst, I want to visualize the main reasons for operational stoppages to identify the major factors that impact productivity                   | 8       | 2      |
-| 4    | High       | As an analyst, I want to visualize how many port operations are performed per month at each port to understand the volume of operational activities    | 3          | 2      |
-| 5  | High      | As an analyst, I will use the DEA model to measure the efficiency of ports                                                                                | 9      | 3   |
-|6  | Medium      | As an analyst, I will evaluate operation times, focusing on locating which ports have longer waiting times and which are more agile in operation     | 10         | 3      |
-
-
+## Contatos 📞
+<div> 
+  <a href = "mailto:pereirafagner510@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fagner-santos-235a82229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-## Sprint Log
+</div>
 
-| Sprint            | Forecast   | Status   | Historical |
-|-------------------|------------|----------|-----------|
-| 01                | 03/10/2025 | developing  | [MVP](MVP/sp1.md)  |
-| 02                | 24/10/2025  | to do  | [MVP](#)  |
-| 03                | 14/11/2025 | to do  | [MVP](#)  |
-| Solutions Fair| 04/12/2025 | to do  | [MVP](#)  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ec6c2b&height=120&section=footer"/>
+
+
+
+
